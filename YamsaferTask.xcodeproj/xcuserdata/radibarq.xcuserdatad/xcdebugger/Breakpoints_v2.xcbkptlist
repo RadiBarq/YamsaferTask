@@ -10,123 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "YamsaferTask/MainTableViewController.swift"
-            timestampString = "575999650.574755"
+            timestampString = "576091661.1947891"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "85"
-            endingLineNumber = "85"
-            landmarkName = "getData(type:releaseYear:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "YamsaferTask/MainTableViewController.swift"
-            timestampString = "575999650.578229"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "88"
-            endingLineNumber = "88"
-            landmarkName = "getData(type:releaseYear:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "YamsaferTask/MainTableViewController.swift"
-            timestampString = "575999650.58261"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "190"
-            endingLineNumber = "190"
-            landmarkName = "tableView(_:cellForRowAt:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "YamsaferTask/MainTableViewController.swift"
-            timestampString = "575999650.585704"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "127"
-            endingLineNumber = "127"
-            landmarkName = "getGenres()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "YamsaferTask/MainTableViewController.swift"
-            timestampString = "575999650.589552"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "136"
-            endingLineNumber = "136"
-            landmarkName = "getGenres()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "YamsaferTask/MainTableViewController.swift"
-            timestampString = "575999650.592115"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "143"
-            endingLineNumber = "143"
-            landmarkName = "getGenres()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "YamsaferTask/MainTableViewController.swift"
-            timestampString = "575999650.5949709"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "143"
-            endingLineNumber = "143"
-            landmarkName = "getGenres()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "YamsaferTask/MainTableViewController.swift"
-            timestampString = "575999650.597479"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "145"
-            endingLineNumber = "145"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
             landmarkName = "getGenres()"
             landmarkType = "7">
          </BreakpointContent>
@@ -138,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "YamsaferTask/MainTableViewCell.swift"
-            timestampString = "575999650.599929"
+            timestampString = "576091661.197197"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "130"
-            endingLineNumber = "130"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
             landmarkName = "setNumberOfStars(num:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -150,15 +38,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "YamsaferTask/MainTableViewController.swift"
-            timestampString = "575999650.602017"
+            timestampString = "576091661.197909"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "104"
-            endingLineNumber = "104"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
             landmarkName = "getData(type:releaseYear:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -170,12 +58,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "YamsaferTask/MainTableViewController.swift"
-            timestampString = "575999650.604089"
+            timestampString = "576091661.19998"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "79"
             endingLineNumber = "79"
-            landmarkName = "getData(type:releaseYear:)"
+            landmarkName = "getGenres()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -186,12 +74,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "YamsaferTask/MainTableViewController.swift"
-            timestampString = "575999650.606649"
+            timestampString = "576091661.202945"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "69"
-            endingLineNumber = "69"
-            landmarkName = "getData(type:releaseYear:)"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "getGenres()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -202,11 +90,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "YamsaferTask/MainTableViewController.swift"
-            timestampString = "575999650.6090879"
+            timestampString = "576091661.204708"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "114"
-            endingLineNumber = "114"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
             landmarkName = "getData(type:releaseYear:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -218,28 +106,92 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "YamsaferTask/MainTableViewController.swift"
-            timestampString = "575999650.6111391"
+            timestampString = "576091661.207329"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "112"
-            endingLineNumber = "112"
-            landmarkName = "getData(type:releaseYear:)"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "populateGenres(data:response:error:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "YamsaferTask/MainTableViewController.swift"
-            timestampString = "575999650.614408"
+            timestampString = "576091661.208527"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "75"
-            endingLineNumber = "75"
-            landmarkName = "getData(type:releaseYear:)"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "getGenres()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YamsaferTask/MainTableViewController.swift"
+            timestampString = "576091661.209643"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "callUrlSessionDataTask(url:dataType:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YamsaferTask.MainTableViewController.callUrlSessionDataTask(url: Foundation.URLRequest, dataType: YamsaferTask.DataType) -&gt; ()"
+                  moduleName = "YamsaferTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/radibarq/Library/Autosave%20Information/YamsaferTask/YamsaferTask/MainTableViewController.swift"
+                  timestampString = "576091330.654621"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in YamsaferTask.MainTableViewController.callUrlSessionDataTask(url: Foundation.URLRequest, dataType: YamsaferTask.DataType) -&gt; ()"
+                  moduleName = "YamsaferTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/radibarq/Library/Autosave%20Information/YamsaferTask/YamsaferTask/MainTableViewController.swift"
+                  timestampString = "576091330.657397"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YamsaferTask/MainTableViewController.swift"
+            timestampString = "576091661.210884"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "callUrlSessionDataTask(url:dataType:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

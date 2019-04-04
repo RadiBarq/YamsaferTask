@@ -52,17 +52,17 @@ class MainTableViewCell: UITableViewCell{
     
     func initializeStackView()
     {
-        
         self.addSubview(ratingsStackView)
         ratingsStackView.translatesAutoresizingMaskIntoConstraints = false
-        ratingsStackView.topAnchor.constraint(equalTo: titleLabel.bottomAnchor, constant: 5).isActive = true
+        ratingsStackView.topAnchor.constraint(equalTo: titleLabel.bottomAnchor, constant: 0).isActive = true
         ratingsStackView.leftAnchor.constraint(equalTo: self.leftAnchor, constant: 15).isActive = true
-        ratingsStackView.widthAnchor.constraint(equalToConstant: 100).isActive = true
-        ratingsStackView.bottomAnchor.constraint(equalTo: genreLabel.topAnchor,constant: -5).isActive = true
+        //ratingsStackView.widthAnchor.constraint(equalToConstant: 100).isActive = true
+        ratingsStackView.bottomAnchor.constraint(equalTo: genreLabel.topAnchor,constant: -7.5).isActive = true
         ratingsStackView.axis = .horizontal
-        ratingsStackView.alignment = .leading // .leading .firstBaseline .center .trailing .lastBaseline
-        ratingsStackView.distribution = .equalSpacing // .fillEqually .fillProportionally .equalSpacing .equalCentering
-      //  ratingsStackView.addArrangedSubview(imageView)
+      //  ratingsStackView.heightAnchor.constraint(equalToConstant:  10).isActive = true
+        ratingsStackView.alignment = .center
+        ratingsStackView.distribution = .fill
+        ratingsStackView.spacing = 2
         
     }
     
@@ -88,6 +88,7 @@ class MainTableViewCell: UITableViewCell{
         dateLabel.leftAnchor.constraint(equalTo: view.leftAnchor, constant: 5).isActive = true
         dateLabel.rightAnchor.constraint(equalTo: view.rightAnchor, constant: -5).isActive = true
         dateLabel.bottomAnchor.constraint(equalTo: view.bottomAnchor, constant: -5).isActive = true
+        
     }
 
     func addBorder()
@@ -121,21 +122,22 @@ class MainTableViewCell: UITableViewCell{
             view.removeFromSuperview()
         }
         
-        
         for i in 0..<numberOfStars
         {
+            
             let imageView = UIImageView(image: UIImage(named: "star"))
+            imageView.translatesAutoresizingMaskIntoConstraints = false
+            imageView.heightAnchor.constraint(equalToConstant: 11).isActive = true
+            imageView.widthAnchor.constraint(equalToConstant: 11).isActive = true
             ratingsStackView.addArrangedSubview(imageView)
             
         }
-   
         
     }
 
     override func setSelected(_ selected: Bool, animated: Bool) {
         
         super.setSelected(selected, animated: animated)
-
         // Configure the view for the selected state
     }
 

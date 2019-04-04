@@ -150,7 +150,9 @@ depends-member:
 - ["SH", "stringValue"]
 - !private ["s6HasherV", "combine"]
 - !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s22KeyedDecodingContainerV", "decodeIfPresent"]
 - !private ["s30KeyedDecodingContainerProtocolP", "decode"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decodeIfPresent"]
 - !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
 - !private ["s25LosslessStringConvertibleP", "init"]
 - !private ["s25LosslessStringConvertibleP", "init"]
@@ -160,6 +162,7 @@ depends-member:
 - ["12YamsaferTask8MainDataC", "String"]
 - ["12YamsaferTask8MainDataC", "clearData"]
 - ["12YamsaferTask8MainDataC", "genres"]
+- ["12YamsaferTask8MainDataC", "gernresNames"]
 - ["12YamsaferTask8MainDataC", "getGenresDic"]
 - ["12YamsaferTask8MainDataC", "getMoviesArray"]
 - ["12YamsaferTask8MainDataC", "init"]
@@ -304,4 +307,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "bb1e4ca5bab1295a96a68bbb9636272f"
+interface-hash: "10a0c485632c257f694bd5e8b22aa343"
